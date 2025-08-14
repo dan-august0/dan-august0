@@ -1,11 +1,12 @@
 ## Oii, meu nome é Danillo e esse é meu Github 😁
 
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dan-august0&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4c4c&icon_color=ff1a1a&text_color=ff6666" />
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-august0&layout=compact&hide_border=true&bg_color=00000000&title_color=ff4c4c&text_color=ff6666" /> 
-</p>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dan-august0&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4c4c&icon_color=ff1a1a&text_color=ff6666" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan-august0&layout=compact&langs_count=8&card_width=320hide_border=true&bg_color=00000000&title_color=ff4c4c&icon_color=ff1a1a&text_color=ff6666&hide_border=true" />
+</a>
 
 <div style="display: inline_block"><br> 
 
