@@ -20,14 +20,16 @@
 
 
 ## 💻 Tecnologias e linguagens
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,cs&theme=light)](https://skillicons.dev)
-
  
-
 <div align="center">
   <img width="54%" src="https://github-readme-stats.vercel.app/api?username=dan-august0&show_icons=true&theme=dark&title_color=ff1a1a&icon_color=ff4d4d&text_color=cccccc&bg_color=0d0d0d&hide_border=true"/>
   <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-august0&layout=compact&theme=dark&title_color=ff1a1a&text_color=cccccc&bg_color=0d0d0d&hide_border=true"/>
 </div>
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,cs&theme=light)](https://skillicons.dev)
+
 
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=ff1a1a&height=120&section=footer"/>
