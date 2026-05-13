@@ -16,15 +16,4 @@
   <a href="https://www.linkedin.com/in/danillo-augusto-6b639837a" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
 </div>
 
-## 💻 Tecnologias e linguagens
-<div align="center">
-  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=dan-august0&show_icons=true&theme=dark&title_color=cccccc&icon_color=999999&text_color=ffffff&bg_color=0d0d0d&hide_border=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-august0&layout=compact&theme=dark&title_color=cccccc&text_color=ffffff&bg_color=0d0d0d&hide_border=true"/>
-</div>
-
-<p></p>
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,cs&theme=dark)](https://skillicons.dev)
-
-
 <img width="150%" src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=120&section=footer"/>
